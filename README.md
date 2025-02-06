@@ -1,11 +1,17 @@
 <!--# https://github.com/anuraghazra/github-readme-stats -->
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mecograph&show_icons=true&show=reviews&hide=issues,contribs&include_all_commits=true&rank_icon=github&count_private=true&hide_border=true&hide_title=true&theme=github_light" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecograph&langs_count=6&layout=compact&count_private=true&hide_border=true&hide_title=true&theme=github_light" />
-</a>
+<picture>
+   <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=mecograph&show_icons=true&show=reviews&include_all_commits=true&rank_icon=github&count_private=true&hide_border=true&hide_title=true&theme=github_dark&hide=contribs">
+   <img align="center"
+      src="https://github-readme-stats.vercel.app/api?username=mecograph&show_icons=true&show=reviews&include_all_commits=true&rank_icon=github&count_private=true&hide_border=true&hide_title=true&theme=github_light&hide=contribs">
+</picture>
+<picture>
+   <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mecograph&langs_count=6&layout=compact&count_private=true&hide_border=true&hide_title=true&theme=github_dark">
+   <img align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecograph&langs_count=6&layout=compact&count_private=true&hide_border=true&hide_title=true&theme=github_light">
+</picture>
 
 <!--
 # Things I love
@@ -24,9 +30,15 @@
 -->
 
 ## Gists
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=d655dd72b961762017906da3d4addf4d&hide_border=true&hide_title=true&theme=github_light" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=c41da87b350b11e2ed1b8814e4070296&hide_border=true&hide_title=true&theme=github_light" />
-</a>
+<picture>
+   <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/gist?id=d655dd72b961762017906da3d4addf4d&hide_border=true&hide_title=true&theme=github_dark">
+   <img align="top"
+      src="https://github-readme-stats.vercel.app/api/gist?id=d655dd72b961762017906da3d4addf4d&hide_border=true&hide_title=true&theme=github_light">
+</picture>
+<picture>
+   <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/gist?id=c41da87b350b11e2ed1b8814e4070296&hide_border=true&hide_title=true&theme=github_dark">
+   <img align="top"
+      src="https://github-readme-stats.vercel.app/api/gist?id=c41da87b350b11e2ed1b8814e4070296&hide_border=true&hide_title=true&theme=github_light">
+</picture>
